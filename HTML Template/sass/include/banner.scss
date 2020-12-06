@@ -1,0 +1,13 @@
+#banner-area{
+    .owl-carousel .item {
+        height: 30rem;
+      }
+      .item img{
+        object-fit: cover;
+        position: absolute;
+        height:38rem ;
+      }
+      .item h1{
+        position: absolute;
+      }
+}
